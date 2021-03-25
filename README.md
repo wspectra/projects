@@ -1,5 +1,4 @@
-# projects
-CUB3D
+#CUB3D
 
 This project is inspired by the world-famous eponymous 90’s game, which
 was the first FPS ever. It was to explore ray-casting. My goal was to
@@ -16,13 +15,12 @@ make
 ./cub3D map.cub --save
 
 
-FT_SERVER
+#FT_SERVER
 
 For that, I discovered the "docker" technology and use it to install a complete web server. This server run
 multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
 
-
-FT_PRINTF
+#FT_PRINTF
 
 I recoded function printf. In thi project I mainly learnt how to use variadic arguments.
